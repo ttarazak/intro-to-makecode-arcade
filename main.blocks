@@ -1,0 +1,18 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="H*R59@b2c}-_~:55KzA*">mySprite</variable><variable type="KIND_SpriteKind" id="F]Ip3R$*BlDJy,4-TM.d">Player</variable><variable type="KIND_SpriteKind" id="dMp~qXxzkJ??@Y#ckA8u">Projectile</variable><variable type="KIND_SpriteKind" id="q?JaMH3!)ww!Q[RsOh.Z">Food</variable><variable type="KIND_SpriteKind" id="$*X.,sM-7;iIaLus|?N!">Enemy</variable></variables><block type="pxt-on-start" id="-3Or`3}9l3P4N*VT}ynQ" x="0" y="0"><statement name="HANDLER"><block type="gameSplash" id="u#.2E~MUcSDd_Ie:6[Q`"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="true"></mutation><value name="title"><shadow type="text" id="X^JjYzN@[[i|PuZjJz:s"><field name="TEXT">These blocks are in your workspace!</field></shadow></value></block></statement></block><block type="variables_set" id="%pgX])Tt}3x,|V-]EWn(" disabled="true" x="72" y="146"><field name="VAR" id="H*R59@b2c}-_~:55KzA*">mySprite</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="UU!sd|?*mwKGSQcZPUaE" disabled="true"><value name="img"><shadow type="screen_image_picker" id="W%AP7j;b7|uQS;vpjc@8" disabled="true"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":"W%AP7j;b7|uQS;vpjc@8"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="KD8{Sw8HqCOJ~tG#%TOu" disabled="true"><field name="MEMBER">Food</field></shadow></value></block></value></block></xml>
